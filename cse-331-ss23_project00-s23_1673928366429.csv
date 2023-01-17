@@ -1,0 +1,2601 @@
+student name,first name,last name,username,hashed id,email,right count,wrong count,answered assessments,points/max_points,points,total points,time spent,final grade,comment,teacher grade,assessments grade,script grade,grade override,extra credit,created,completed,completed date,lti id,FEEDBACK AND CITATION correct,FEEDBACK AND CITATION answer,FEEDBACK AND CITATION attempts,Manual Grading  correct,Manual Grading  answer,Manual Grading  attempts,SUBMIT correct,SUBMIT answer,SUBMIT attempts
+Aarham Wasit Khan,Aarham Wasit,Khan,akhan3185,9dea57644d9d0362c0ec2b136a0cef6ccaa9a8f2,khanaarh@msu.edu,0,0,2,0/0,0,0,1255,,,,,,,,Jan 10 2023 1:42AM,true,Jan 15 2023 4:04PM,,false,"'1. 0.1 hours
+2. 0
+3. easy
+4. none'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Aaron Manne,Aaron,Manne,amanne,2c3472ad387f0e66dd4cda7ba756b453d6f646c3,manneaar@msu.edu,0,0,0,0/0,0,0,562,,,,,,,,Jan 14 2023 12:52AM,false,,,,,,,,,,,
+Aaron Ngo,Aaron,Ngo,ango48,1227b34a54c1ce22388e17822115eff9b2921d1e,ngoaaro1@msu.edu,0,0,0,0/0,0,0,72,,,,,,,,Jan 10 2023 10:14PM,false,,,,,,,,,,,
+Aaryan Walia,Aaryan,Walia,awalia7,baf8560cca4b851c2bdc6c1a99368522d674394a,waliaaar@msu.edu,0,0,0,0/0,0,0,655,,,,,,,,Jan 8 2023 2:49AM,false,,,,,,,,,,,
+Abdullah Gabayre,Abdullah,Gabayre,agabayre,8936c59ad95072d2a89ac316a3695a178f61ecd7,gabayrea@msu.edu,0,0,2,0/0,0,0,2006,,,,,,,,Jan 11 2023 3:50AM,true,Jan 11 2023 10:56PM,,false,"'1.2hr
+2.7
+3.i had hard time configuration python interpret
+5. d2l videos 
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Abdulrahman Almazrouei,Abdulrahman,Almazrouei,aalmazrouei,b16ff29dc17bcdf043ba55b032c3b99d331d0841,almazro9@msu.edu,0,0,2,0/0,0,0,265,0,,,0,,,,Jan 9 2023 3:07AM,true,Jan 9 2023 3:14AM,,false,'0',1,,,,false,"stdout='cp: cannot stat 'solution.py': No such file or directory
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='cp: cannot stat 'solution.py': No such file or directory
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Abhi Rao,Abhi,Rao,arao04,b7c3a15c50667515c1ba15780b928df08cde17be,raoabhi1@msu.edu,0,0,2,0/0,0,0,288,,,,,,,,Jan 13 2023 5:44PM,true,Jan 13 2023 6:54PM,,false,"'1)Less than an hour, just getting familiar.
+2)Zero.
+3)It was a good way to get comfortable with codio.
+4)https://www.youtube.com/watch?v=lXm7pZ3h2FQ
+https://www.youtube.com/watch?v=2pijVED-7QI'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Advait Paliwal,Advait,Paliwal,apaliwal,0c7a5525a0c5713cb34e801bba6d6549f603f756,paliwal1@msu.edu,0,0,2,0/0,0,0,2162,0,,,0,,,,Jan 9 2023 7:15PM,true,Jan 10 2023 12:51AM,,false,"'1. Less than 10 minutes
+2. 0
+3. Easy. Improve it by changing the x mark to check mark when all test cases pass.
+4. None.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",10
+Aj Brummel,Aj,Brummel,abrummel,d9b221c68e5dad116297d76d2dc425acd03a1b19,brumme20@msu.edu,0,0,2,0/0,0,0,2268,0,,,0,,,,Jan 9 2023 3:38AM,true,Jan 9 2023 4:37AM,,false,"'1. 1/2 hour
+2. 1 difficulty
+3. The project was good, well directed, clear and concise. I am still a little confused on the ** DOCSTRING ** note in the Guide document.
+4. I referenced professor Onsay's recording of downloading projects and uploading solutions to access and submit the project content/solution.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Alan Feng,Alan,Feng,afeng4,d2b04d193427795a18efbd5c7abff40ffde03505,fengalan@msu.edu,0,0,1,0/0,0,0,414,,,,,,,,Jan 9 2023 3:55AM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",7
+Alayna Johnson,Alayna,Johnson,ajohnson3281,0225522c92cbbe4354c821493f5ea591f7571dd8,john7888@msu.edu,0,0,2,0/0,0,0,823,,,,,,,,Jan 11 2023 2:18AM,true,Jan 11 2023 9:18AM,,false,"'1. .5
+2. 0
+3. this was easy
+4. n/a'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Alec Charney,Alec,Charney,acharney,d6ed69378296994453dcf8a827cf8ce3a6233a53,charney6@msu.edu,0,0,2,0/0,0,0,760,,,,,,,,Jan 10 2023 5:45PM,true,Jan 15 2023 8:03PM,,false,"'1.) Less than 1
+2.) 1-2, and most of that was me misreading things
+3.) I feel like this project is too simple to provide the requested feedback. For what it's worth, I feel this is a very good introductory project.
+4.) https://www.geeksforgeeks.org/ternary-operator-in-python/'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Alec Gardiner,Alec,Gardiner,agardiner,0455c24437310e1c1a510c869b52f158ab02fb08,gardin47@msu.edu,0,0,0,0/0,0,0,473,,,,,,,,Jan 9 2023 12:26AM,false,,,,,,,,,,,
+Alex Banker,Alex,Banker,abanker,e698db83561c858cd17f329de9d7ac77403aade9,bankerha@msu.edu,0,0,0,0/0,0,0,126,,,,,,,,Jan 12 2023 6:36PM,false,,,,,,,,,,,
+Alex Bocchi,Alex,Bocchi,abocchi,dda86b989341e3d2991f44f5107340153d899fd2,bocchial@msu.edu,0,0,0,0/0,0,0,32,,,,,,,,Jan 13 2023 7:37PM,false,,,,,,,,,,,
+Alex Fortsch,Alex,Fortsch,afortsch,879fc4032bd1d868063732a684a6451291c17b9b,fortscha@msu.edu,0,0,1,0/0,0,0,949,,,,,,,,Jan 8 2023 8:24PM,false,,,,,,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 27, in find_max
+    return item2
+UnboundLocalError: local variable 'item2' referenced before assignment
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 27, in find_max
+    return item2
+UnboundLocalError: local variable 'item2' referenced before assignment
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",8
+Alex Logan,Alex,Logan,alogan7,6d8aa5678b658b22adb2c744243e8289732a6c03,loganal2@msu.edu,0,0,2,0/0,0,0,1056,0,,,0,,,,Jan 9 2023 3:19AM,true,Jan 9 2023 3:56AM,,false,"'1.) About 1 hour simply due to getting familiar!
+
+2.) about a 3.
+
+3.) It was a good introduction using the software. I like it the way it is.
+
+4.) No outside resources other than the D2L videos!'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",25
+Alex Popovic,Alex,Popovic,apopovic,e50dbb2b7a53652231dc2a316c53aef1fc2c3205,popovi25@msu.edu,0,0,0,0/0,0,0,19,,,,,,,,Jan 11 2023 6:15AM,false,,,,,,,,,,,
+Alex Stornant,Alex,Stornant,astornant,2b260029a964486cea88c98ce706ef121264a508,storna10@msu.edu,0,0,1,0/0,0,0,672,,,,,,,,Jan 9 2023 3:41PM,true,Jan 13 2023 3:33PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Alexa Swanson,Alexa,Swanson,aswanson2,3e65ad2d0e1ac06996507728fc9a0af02ed1cf3b,swans308@msu.edu,0,0,2,0/0,0,0,3393,0,,,0,,,,Jan 10 2023 2:25AM,true,Jan 10 2023 4:28AM,,false,"'1. 5 minutes
+2. 1
+3. easy
+4. none'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Ali Abboodi,Ali,Abboodi,aabboodi5,3f528163a1b001664a19a8ce66180d09ed659635,abboodia@msu.edu,0,0,0,0/0,0,0,9,,,,,,,,Jan 14 2023 4:02AM,false,,,,,,,,,,,
+Allen Shi,Allen,Shi,ashi6,5c4c25ff58f30dfee8fabcf1a5f6b48e4a293567,shiallen@msu.edu,0,0,1,0/0,0,0,603,,,,,,,,Jan 12 2023 4:22PM,false,Jan 12 2023 4:35PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",4
+Andrew Strominger,Andrew,Strominger,astrominger,5dfe169809f943bf96f74ce727f11fb60f827c1e,stromin3@msu.edu,0,0,0,0/0,0,0,29,,,,,,,,Jan 9 2023 1:56AM,false,,,,,,,,,,,
+Aniessa Terpstra,Aniessa,Terpstra,aterpstra,dc2c2496bca2167ea769d459574ede108bbaae8a,terpst35@msu.edu,0,0,2,0/0,0,0,1583,,,,,,,,Jan 9 2023 10:35PM,true,Jan 11 2023 5:52PM,,false,'.5 hours. It had a difficulty of 0. It was good in the terms that I need to get used to the program and pycharms. I didn't use any outside resources for this project other than D2L.',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Anthony Montemayor,Anthony,Montemayor,amontemayor,e6f14082ac3e26230a6fb1413dd43bab1ae096ab,montem22@msu.edu,0,0,2,0/0,0,0,688,,,,,,,,Jan 11 2023 7:57PM,true,Jan 11 2023 9:35PM,,false,"'0.5 Hours
+0 difficulty
+Too easy
+No resources
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Aparna Anand,Aparna,Anand,aanand06,ad983d36a4faacdd342b9db8e24f0649b6b3e050,anandapa@msu.edu,0,0,0,0/0,0,0,386,,,,,,,,Jan 16 2023 7:35PM,true,Jan 16 2023 7:55PM,,,,,,,,,,
+Areeb Islam,Areeb,Islam,aislam32,a8ea4f7ad603536fe58972ae8cd86a57cfdd4612,islamare@msu.edu,0,0,1,0/0,0,0,622,,,,,,,,Jan 10 2023 11:47PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Ashley Siegmund,Ashley,Siegmund,asiegmund,97e2a375e42b27a6fc90c12f0f11b954221473ad,siegmun2@msu.edu,0,0,1,0/0,0,0,0,,,,,,,,Jan 9 2023 5:22PM,false,,,,,,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)'",1
+Ayoung Du,Ayoung,Du,adu05,f9ee086ca14b336812f4142b5433aff3151b7a5a,dushengy@msu.edu,0,0,2,0/0,0,0,3162,0,,,0,,,,Jan 9 2023 8:39PM,false,Jan 9 2023 8:58PM,,false,"'0.1 hours
+
+0
+
+I like it
+no resource'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Bao Hoang,Bao,Hoang,bhoang3,8fe307e97f8d0c8a34008884a4ebc1444eaa6e75,hoangbao@msu.edu,0,0,2,0/0,0,0,1923,0,,,0,,,,Jan 8 2023 9:40PM,true,Jan 8 2023 10:20PM,,false,"'1. I complete this project in 1 hour
+2. This project's difficult is 3
+3. I like this project, because I have to handle the case len(data) == 0
+4. Yes'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Blake Potvin,Blake,Potvin,bpotvin,3e8df9c8da9442dd91e72b7d8d5ab48beddd9ee3,potvinbl@msu.edu,0,0,2,0/0,0,0,1734,0,,,0,,,,Jan 8 2023 9:03PM,true,Jan 9 2023 9:04PM,,false,"'1. 5 minutes
+2. 0
+3. Easy to setup, video helped a bit with getting used to PyCharm.
+4. No outside sources besides D2L videos.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",4
+Bruce Smith,Bruce,Smith,bsmith01,9089d6323efbbc4e3aa59d0d4fcee6b8b05203a0,smit3183@msu.edu,0,0,2,0/0,0,0,1415,,,,,,,,Jan 8 2023 10:36PM,true,Jan 11 2023 10:45PM,,false,"'30 minutes. 
+0.
+Practice project, very easy.
+None.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Bryan Tran,Bryan,Tran,btran10,655400cdf1dd963e412ae2f025e3c7adfcb4fc78,tranbrya@msu.edu,0,0,1,0/0,0,0,491,0,,,0,,,,Jan 9 2023 2:36AM,true,Jan 9 2023 2:49AM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Cameron Otten,Cameron,Otten,cotten7,7e0b51836a4edc2a224b7562b4247b551dce36a9,ottencam@msu.edu,0,0,0,0/0,0,0,1030,,,,,,,,Jan 11 2023 7:22PM,false,,,,,,,,,,,
+Campbell Robertson,Campbell,Robertson,crobertson53,525e7bdda85a2c07bb268c161ff34adb0a0c403c,robe1149@msu.edu,0,0,1,0/0,0,0,4549,,,,,,,,Jan 12 2023 10:44PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Caroline Zackerman,Caroline,Zackerman,czackerman,53345c11cfedc9444e4aa2b1787d05be31e33f27,zackerm1@msu.edu,0,0,2,0/0,0,0,673,,,,,,,,Jan 12 2023 9:43PM,true,Jan 13 2023 2:09AM,,false,'',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Carter Salna,Carter,Salna,csalna,f2a3a99592d7a73f29f50e4422c05792813edbb6,salnacar@msu.edu,0,0,0,0/0,0,0,467,,,,,,,,Jan 16 2023 7:50PM,false,,,,,,,,,,,
+Charlie Plough,Charlie,Plough,cplough,5313ff8472a8affee9a49ed2cdea3cee1aff5055,ploughch@msu.edu,0,0,2,0/0,0,0,628,,,,,,,,Jan 13 2023 9:58PM,true,Jan 13 2023 10:36PM,,false,"'1. One hour.
+2. The project itself was a 0 in terms of difficulty but I was unfamiliar with both PyCharm and Codio, so it took me a bit to figure them out.
+3. It was good.
+4. None.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Chenghan Cai,Chenghan,Cai,ccai1,0f8c728b1db36836a9436d3e1cf00dee968b7925,caichen3@msu.edu,0,0,2,0/0,0,0,638,,,,,,,,Jan 9 2023 7:32PM,true,Jan 12 2023 6:28PM,,false,"'1. less than1 hour to finish project.
+2. 0
+3. Everything is easy'",1,,,,false,"stdout='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",1
+Chirag Bhansali,Chirag,Bhansali,cbhansali,28b71317b132a9531f3fa13694641a621c403094,bhansal4@msu.edu,0,0,1,0/0,0,0,560,,,,,,,,Jan 11 2023 8:21PM,false,,,,,,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 11, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 11, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",5
+Christopher Suarez,Christopher,Suarez,csuarez20,e8b51f9fc8507174bec57056d92473f5a4b06521,suarezc4@msu.edu,0,0,2,0/0,0,0,323,,,,,,,,Jan 10 2023 12:03AM,false,,,false,'0 0 Fun No sources',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Cole Lanzinger,Cole,Lanzinger,clanzinger,08b8b2f61fdf21edb3472b934bbb843cc2009711,lanzing2@msu.edu,0,0,2,0/0,0,0,812,0,,,0,,,,Jan 10 2023 5:41PM,true,Jan 10 2023 6:31PM,,false,"'1. 0.5 hours
+2. 4
+3. Getting used to the new software was the only challenging part.
+4. I used videos from D2L to assist me in this project.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",4
+Colton Leslie,Colton,Leslie,cleslie,2b7f37399b13d7fd2a47e1dd2112be9f09267420,lesliec2@msu.edu,0,0,2,0/0,0,0,509,,,,,,,,Jan 11 2023 3:21PM,true,Jan 11 2023 5:59PM,,false,"'This was super simple, so it took me like 10 minutes following along with the videos. I would rate this project as a 0. This was pretty cool project learning how to use the software in the course with an easy example. I did not use any outside resources other than the videos given on D2L.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Connor Blackmer,Connor,Blackmer,cblackmer,e7d240d139368ca628990632eead6151ff68e0cc,blackm97@msu.edu,0,0,2,0/0,0,0,1282,,,,,,,,Jan 9 2023 10:55PM,true,Jan 11 2023 1:32AM,,false,"'It took maybe an hour to figure it out. Honestly, it was pretty easy (probably like a 1 or 2). I took a lot longer than I should have because I haven't used Python before. It was a nice way to familiarize myself with the language, however. '",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Connor Horton,Connor,Horton,chorton5,4932a51f6ee45e73817248de8b502ad5e62e8b52,hortonc9@msu.edu,0,0,0,0/0,0,0,679,,,,,,,,Jan 10 2023 10:42PM,false,,,,,,,,,,,
+Connor Sheridan,Connor,Sheridan,csheridan1,98b0c6e07fe5cb15e1cb3a447ede47cfc1978d73,sheri111@msu.edu,0,0,1,0/0,0,0,1326,,,,,,,,Jan 9 2023 4:49PM,false,,,,,,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 17, in find_max
+    max_v = max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 17, in find_max
+    max_v = max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",6
+Dan Ka Le,Dan Ka,Le,dle77,52c1b1162d794787f45de81fef6999086fff0fa0,ledan3@msu.edu,0,0,0,0/0,0,0,30,,,,,,,,Jan 10 2023 10:22PM,false,,,,,,,,,,,
+Daniel Altamirano,Daniel,Altamirano,daltamirano,0371e9b2d9ea1155f42788a1818b8150b6a4a618,altamir6@msu.edu,0,0,2,0/0,0,0,420,,,,,,,,Jan 12 2023 7:49PM,true,Jan 12 2023 8:02PM,,false,'This project took me 30 minutes to download everything and make sure I was familiar with everything. I would rate it a 0 since it was an introduction. I thought it was a very good intro project.',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Daniel Ho,Daniel,Ho,dho4,b70383ea1788e9aa884b11af0e257ffde05c3811,hovu1@msu.edu,0,0,2,0/0,0,0,340,,,,,,,,Jan 14 2023 5:18PM,true,Jan 14 2023 5:26PM,,false,'proj00',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+David Mikola,David,Mikola,dmikola,d119a2ad451b50be005eb11ba1cda7f68b85aec2,mikolada@msu.edu,0,0,0,0/0,0,0,35,,,,,,,,Jan 12 2023 12:05AM,false,,,,,,,,,,,
+Devin Dematto,Devin,Dematto,ddematto,7da1660c239aa6f47a05c0c10fc0ab997acff16a,demattod@msu.edu,0,0,2,0/0,0,0,373,,,,,,,,Jan 11 2023 3:32PM,true,Jan 11 2023 3:39PM,,false,"'1. a minute
+2. 0
+3. N/A
+4. N/A'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Devin Whitlock,Devin,Whitlock,dwhitlock,834d897c122b9126e7f531a53b09e6a2171b0b4a,whitlo30@msu.edu,0,0,2,0/0,0,0,787,,,,,,,,Jan 10 2023 4:39PM,true,Jan 11 2023 2:20AM,,false,"'1. Under an hour.
+2. 0
+3. The project was fine for introducing concepts.
+4. None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Devon Foxelster,Devon,FoxElster,dfoxelster,239eae094d7c4f86b23aaacc1efa9a10027df1d2,foxelste@msu.edu,0,0,0,0/0,0,0,0,,,,,,,,Jan 11 2023 12:07AM,false,,,,,,,,,,,
+Dom Leisinger,Dom,Leisinger,dleisinger,eda6ad853264240506d4b7f0db3e9bc513a63c8e,leising3@msu.edu,0,0,2,0/0,0,0,498,0,,,0,,,,Jan 10 2023 4:09PM,true,Jan 10 2023 4:33PM,,false,"'1. Less than an hour
+2. 2, had to get acquainted with the different softwares
+3. I like the structure of the assigments so far
+4. None, the D2L videos'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Don Truong,Don,Truong,dtruong8,3b7abf0167dc04cede68e21cb5442dd89ee84520,truongd1@msu.edu,0,0,1,0/0,0,0,1014,0,,,0,,,,Jan 9 2023 11:28PM,false,Jan 9 2023 11:55PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",7
+Duong Nguyen,Duong,Nguyen,dnguyen01,f87975b647ea6d625d357a81485442722b84c259,nguye958@msu.edu,0,0,0,0/0,0,0,0,,,,,,,,Jan 12 2023 12:21AM,false,,,,,,,,,,,
+Duy Le,Duy,Le,dle22,9b85270d7ab4f75c2152cabdb01f19c16f53febd,leduy2@msu.edu,0,0,1,0/0,0,0,156,,,,,,,,Jan 11 2023 1:31AM,true,Jan 11 2023 1:35AM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Ehsan Kamjoo,Ehsan,Kamjoo,ekamjoo,103507dbba0919c96fd6bd909af90f76c54ca351,kamjooeh@msu.edu,0,0,2,0/0,0,0,743,,,,,,,,Jan 13 2023 3:06AM,true,Jan 14 2023 1:31AM,,false,"'1 - 15 min to learn how to work with Codio
+2 - 0
+3 - It was useful to learn how to work locally and submit on Codio
+4 - none
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Ekene Umobi,Ekene,Umobi,eumobi,7c5119cf70f21a2dce388d6f0a488f172989eac3,umobieke@msu.edu,0,0,0,0/0,0,0,208,,,,,,,,Jan 10 2023 3:43AM,false,,,,,,,,,,,
+Eleanor Murray,Eleanor,Murray,emurray7,65c906823e0c3e48fb2d199e229d6733b73e6cd4,murra359@msu.edu,0,0,2,0/0,0,0,1457,,,,,,,,Jan 10 2023 9:11PM,true,Jan 11 2023 11:42PM,,false,"'1. 1 hour
+2. 1
+3.  Nice introduction to using the platform.  Some of the setup (Codio/Pycharm) took a while, but the documentation on D2L was helpful.
+4.  Course videos located on D2L.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Elias Taira,Elias,Taira,etaira,84a1a7c9515c7e6e3169cd4aa7273a6da28a6720,tairaeli@msu.edu,0,0,1,0/0,0,0,852,,,,,,,,Jan 9 2023 2:31AM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",7
+Eliezer Amponsah,Eliezer,Amponsah,eamponsah,defd97dbb5776d17e2b150eb8d15f96a326f7eee,amponsa6@msu.edu,0,0,2,0/0,0,0,538,,,,,,,,Jan 11 2023 3:01PM,true,Jan 12 2023 5:22PM,,false,"'1. Less than an hour
+2. 1
+3. Well it was review. However, if you are going to read this Professor Onsay, I think you give CSE 231 too much credit. I enjoyed that class and learned Python well I'd say. But they did not teach to the extent you are assuming. They never even covered Linked Lists as you are assuming they did. That's more of a future reference than anything. CSE 231 may not be what it used to or what you envision it is.
+4. No external resources used.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Elijah Medina,Elijah,Medina,emedina36,d848f870e9d6a8df8f98482d7068f64cca59f0e1,medinae1@msu.edu,0,0,2,0/0,0,0,607,,,,,,,,Jan 10 2023 11:43PM,true,Jan 11 2023 2:23AM,,false,"'1. 0
+2. 1, had an import error problem for some reason, but fixed itself somehow.
+3. the most challenging part is understanding how to use pycharms/codio without an actual tutorial, unless i missed one somewhere.
+4. N/A'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Elio Zoto,Elio,Zoto,ezoto,e09e2398d577617f4361ae42439adfc627b15bc8,zotoelio@msu.edu,0,0,2,0/0,0,0,420,,,,,,,,Jan 13 2023 6:21PM,true,Jan 13 2023 6:39PM,,false,"'1. 3 min
+2. 0
+3. Easy
+4. None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Emma Fountain,Emma,Fountain,efountain,62f4cd770428fa0c7315e16e218eebd7c9ef80cb,founta57@msu.edu,0,0,2,0/0,0,0,693,,,,,,,,Jan 10 2023 2:14AM,true,Jan 11 2023 12:04AM,,false,"'1. 0.25
+2. 1
+3. Easy, but useful
+4. -'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Eric Wen,Eric,Wen,ewen6,a70ed3ea569b4f8bbd12cbb32f197ba76b0dea70,weneric1@msu.edu,0,0,0,0/0,0,0,271,,,,,,,,Jan 10 2023 3:37AM,false,,,,,,,,,,,
+Ethan Egger,Ethan,Egger,eegger,050964a7e7fce5a330a27a3b038ec28bd2779672,eggereth@msu.edu,0,0,2,0/0,0,0,487,,,,,,,,Jan 13 2023 12:01AM,true,Jan 13 2023 1:31AM,,false,"'1. 0.5
+2. 0
+3. project was simple and easy; great way to start
+4. d2l tutorial videos'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Ethan Gomez,Ethan,Gomez,egomez01,39a4a5ce6c9ebd480b5bfcbc6bc778a28a424cb4,gomezeth@msu.edu,0,0,2,0/0,0,0,719,,,,,,,,Jan 11 2023 8:01PM,true,Jan 11 2023 8:40PM,,false,'',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Faith Dawson,Faith,Dawson,fdawson,60eb7eb459d47b054e578bd4c92bef493c9ac2fe,dawsonfa@msu.edu,0,0,2,0/0,0,0,411,,,,,,,,Jan 15 2023 8:45PM,true,Jan 15 2023 9:04PM,,false,"'1. Few minutes
+2. 0
+3. Perfect practice for figuring out how Codio works!!
+4. None!'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Felipe Marques Allevato,Felipe,Marques Allevato,fmarques-allevato,cbeca2e9f1571d794d96d49c12cf086e7601a0f7,marques6@msu.edu,0,0,2,0/0,0,0,780,,,,,,,,Jan 13 2023 9:23PM,false,Jan 13 2023 9:38PM,,false,"'1. Around 1/6 hours (10 min)
+2. 0
+3. As it is the proj00, the intent is only to test codio, so the difficulty was null.
+4. No resources'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",6
+Frank Luginbill,Frank,Luginbill,fluginbill,e04cf482c57677c37313ee58f268c849d8f8faf3,luginb10@msu.edu,0,0,0,0/0,0,0,436,,,,,,,,Jan 11 2023 5:38PM,false,,,,,,,,,,,
+Frederick Fan,Frederick,Fan,ffan6,43bbf56b302c3b8cdf904afc7e4b9d3a50bf7b1e,fanfrede@msu.edu,0,0,0,0/0,0,0,0,,,,,,,,Jan 10 2023 12:23AM,false,,,,,,,,,,,
+Gabby Price,Gabby,Price,gprice1,e419c098ec3aff37d52ad38fbac336eb55ac1570,pricega3@msu.edu,0,0,0,0/0,0,0,63,,,,,,,,Jan 9 2023 10:53PM,false,,,,,,,,,,,
+Gera Berhanu,Gera,Berhanu,gberhanu,15ed2b59ce1f5f0c878731f44189a9488def663d,berhanug@msu.edu,0,0,0,0/0,0,0,595,,,,,,,,Jan 9 2023 5:33PM,false,,,,,,,,,,,
+Graham Holley,Graham,Holley,gholley,0718102170fbb69befce9b27485585f55ba73de2,holleyg1@msu.edu,0,0,2,0/0,0,0,926,,,,,,,,Jan 10 2023 10:02PM,false,Jan 11 2023 11:03PM,,false,"'1. 0.1 hours
+2. 0
+3. I liked the project. The algorithm was a simple one. It cannot be improved, it is perfect.
+4. CSE 231'",1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 17, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 17, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",2
+Graham Lightle,Graham,Lightle,glightle,c401073053d3d3b53f15a2fbbddad74d4ee44d03,lightleg@msu.edu,0,0,1,0/0,0,0,240,,,,,,,,Jan 9 2023 6:06PM,false,,,,,,,,,false,"stdout='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",1
+Grant Davis,Grant,Davis,gdavis08,8e91509a24e18f7f2bdfc901d7318522843f4a57,davisg22@msu.edu,0,0,2,0/0,0,0,841,,,,,,,,Jan 14 2023 12:57AM,false,,,false,"'1. This project took me multiple sleepless days and an unhealthy amount of esports-marketed energy drinks to solve.
+2. If I had to rate this on a one to ten scale, I would point out that such a feeble scale could not represent how difficult this task is.
+3. I first had to earn a masters in mathematics, specializing in maximum numbers, however during my course of study I learned about how beautiful the mathematics behind large numbers is that I would say this project is in its prefect form and therefore could not be improved. I might be a bit bias though.
+4. http://world-wide-web.Harvard.edu:81/degrees/math/excessivly-large-numbers'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Hail Lim,Hail,Lim,hlim,b63bd5f43e6e8de63c14a440301c214d6acd14cb,limhail@msu.edu,0,0,2,0/0,0,0,2345,,,,,,,,Jan 13 2023 3:28AM,true,Jan 13 2023 4:48AM,,false,"'1. 10mins.
+2. 1
+3. I liked because it was easy.
+4. Done on my own.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Hailey Cohen,Hailey,Cohen,hcohen5,cb7755a8b84b7d0eeaf9e6ccce9967f704609bc9,cohenhai@msu.edu,0,0,2,0/0,0,0,588,,,,,,,,Jan 12 2023 10:45PM,true,Jan 12 2023 11:29PM,,false,"'This project took me around 10 minutes, as I utilized the two Codio tutorial videos and followed along. '",1,,,,false,"stdout='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",3
+Hamed Alnuaimi,Hamed,Alnuaimi,halnuaimi,6cd8baaa71fbcc19e9be2cf5d76c5c21e83de6f7,alnuaim8@msu.edu,0,0,2,0/0,0,0,648,,,,,,,,Jan 13 2023 4:29PM,true,Jan 13 2023 4:40PM,,false,'.',1,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",4
+Hank Murdock,Hank,Murdock,hmurdock,af985107ab4af922d4074e21e032b13ee9af1bbe,murdoc44@msu.edu,0,0,2,0/0,0,0,1229,,,,,,,,Jan 8 2023 8:26PM,true,Jan 11 2023 2:03AM,,false,"'-0 hours
+-Difficulty 0
+-Easy
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",6
+Harshita Rathod,Harshita,Rathod,hrathod3,1572aa6c8c1217abac255694b86de9ec47a00c60,rathodha@msu.edu,0,0,0,0/0,0,0,149,,,,,,,,Jan 12 2023 7:29AM,false,,,,,,,,,,,
+Hayden Cheney,Hayden,Cheney,hcheney,36184b9497bafab83e10e32d41d78985cd227c3b,cheneyha@msu.edu,0,0,2,0/0,0,0,2354,0,,,0,,,,Jan 9 2023 6:20PM,true,Jan 9 2023 7:44PM,,false,"'It took me .5 hours to complete.
+This project was a 2 for me. 
+I enjoyed the project. I am excited to refresh my skills in python and apply them to this class. Coming up with a solution was easy but remembering syntax and the rules of the language was challenging. 
+I did not use outside resources for this project. '",2,,,,false,"stdout='Traceback (most recent call last):
+  File ""/usr/lib/python3.9/runpy.py"", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File ""/usr/lib/python3.9/runpy.py"", line 87, in _run_code
+    exec(code, run_globals)
+  File ""/usr/lib/python3.9/unittest/__main__.py"", line 18, in <module>
+    main(module=None)
+  File ""/usr/lib/python3.9/unittest/main.py"", line 100, in __init__
+    self.parseArgs(argv)
+  File ""/usr/lib/python3.9/unittest/main.py"", line 147, in parseArgs
+    self.createTests()
+  File ""/usr/lib/python3.9/unittest/main.py"", line 158, in createTests
+    self.test = self.testLoader.loadTestsFromNames(self.testNames,
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 220, in loadTestsFromNames
+    suites = [self.loadTestsFromName(name, module) for name in names]
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 220, in <listcomp>
+    suites = [self.loadTestsFromName(name, module) for name in names]
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13
+    if len(data) == 0:
+IndentationError: unexpected indent
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='Traceback (most recent call last):
+  File ""/usr/lib/python3.9/runpy.py"", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File ""/usr/lib/python3.9/runpy.py"", line 87, in _run_code
+    exec(code, run_globals)
+  File ""/usr/lib/python3.9/unittest/__main__.py"", line 18, in <module>
+    main(module=None)
+  File ""/usr/lib/python3.9/unittest/main.py"", line 100, in __init__
+    self.parseArgs(argv)
+  File ""/usr/lib/python3.9/unittest/main.py"", line 147, in parseArgs
+    self.createTests()
+  File ""/usr/lib/python3.9/unittest/main.py"", line 158, in createTests
+    self.test = self.testLoader.loadTestsFromNames(self.testNames,
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 220, in loadTestsFromNames
+    suites = [self.loadTestsFromName(name, module) for name in names]
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 220, in <listcomp>
+    suites = [self.loadTestsFromName(name, module) for name in names]
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13
+    if len(data) == 0:
+IndentationError: unexpected indent'",1
+Hunter Jones,Hunter,Jones,hjones8,c1a3a4b7f4499091d5f8844777dfb40a9de3621f,joneshu2@msu.edu,0,0,2,0/0,0,0,756,,,,,,,,Jan 12 2023 10:21PM,true,Jan 12 2023 10:37PM,,false,"'1. 0 hours
+2. 0
+3. Nice intro to using codio.
+4. Followed along in the video step by step.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Ileana Kueber,Ileana,Kueber,ikueber,3ab49df78d655f9aba57097b8c3431375ff9cb30,kueberil@msu.edu,0,0,2,0/0,0,0,1265,,,,,,,,Jan 14 2023 1:23AM,true,Jan 14 2023 2:32AM,,false,"'1.) About an hour simply because I had trouble with pycharm, but I fixed it
+2.) 0
+3.) It was a good check to make sure codio and pycharm are working
+4.) N/A'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Ilyas Abdulrahman,Ilyas,Abdulrahman,iabdulrahman7,9c995a817947367c24afb8f4f63bb10ac55b8d71,abdulr36@msu.edu,0,0,1,0/0,0,0,53540,,,,,,,,Jan 9 2023 6:55AM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Ishraj Yadav,Ishraj,Yadav,iyadav,83d5e6cb23fe5ec606be9bc27420bd9437940df4,yadavish@msu.edu,0,0,2,0/0,0,0,1501,,,,,,,,Jan 10 2023 2:23AM,true,Jan 12 2023 8:39PM,,false,"'It took me 15 minutes.
+1.
+The project was a good recap of python.
+No resources used.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",5
+Jack Carscadden,Jack,Carscadden,jcarscadden,3bbd75f3d93ffd66e55c4b78e532767093a67a31,carscad1@msu.edu,0,0,2,0/0,0,0,382,0,,,0,,,,Jan 10 2023 1:23AM,true,Jan 10 2023 5:39AM,,false,"'1. 0
+2. 0
+3. I liked this project
+4. None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Jacob Guty,Jacob,Guty,jguty,8ede222f5c53d59f2bd7b36399a343b7f33e6601,gutyjaco@msu.edu,0,0,0,0/0,0,0,975,,,,,,,,Jan 10 2023 8:13PM,false,,,,,,,,,,,
+Jacob Hakala,Jacob,Hakala,jhakala,d11d709f4bb77a3e2056fce545ec318a2cfea637,hakalaja@msu.edu,0,0,2,0/0,0,0,624,,,,,,,,Jan 11 2023 11:44PM,true,Jan 13 2023 7:54PM,,false,'This took me 1 hours. This was rocket science. It was very fun!!!',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",4
+Jacob Walsh,Jacob,Walsh,jwalsh0,fa2aff6047efac7973d68054056dd6006f91fa50,walshj27@msu.edu,0,0,2,0/0,0,0,633,,,,,,,,Jan 12 2023 9:13PM,true,Jan 12 2023 11:20PM,,false,"'1) 1/4 hours
+2) 0
+3) Helped me get set up
+4) NA'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Jad Khayyati,Jad,Khayyati,jkhayyati,476a44a3563bcc41584d532ed9281630edd1a03f,khayyati@msu.edu,0,0,1,0/0,0,0,284,,,,,,,,Jan 13 2023 6:47PM,false,,,,,,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)'",1
+Jaden Cabansag,Jaden,Cabansag,jcabansag,bb884e360c74f67b446e03566edaa8378bd43b14,cabansa3@msu.edu,0,0,2,0/0,0,0,387,,,,,,,,Jan 10 2023 12:26AM,true,Jan 12 2023 8:08PM,,false,"'Most of it was setting up Pycharm, but I completed it in under an hour. It was simple and a good reminder of utilizing classes in Python
+
+Difficulty : 1'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Jaden Shah,Jaden,Shah,jshah25,c79e38b6efe7324d68452ac4da7060bfbaeef031,shahjade@msu.edu,0,0,1,0/0,0,0,603,,,,,,,,Jan 12 2023 12:16AM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Jake Brown,Jake,Brown,jbrown080,b97dbd49fb807b6269117723b17cf129565cf5ac,brown962@msu.edu,0,0,2,0/0,0,0,1809,,,,,,,,Jan 9 2023 4:08AM,true,Jan 11 2023 5:10AM,,false,"'1. it took me less than an hour
+2. 1
+3. it was easy just had to figure out codio.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",5
+Jenna Somers,Jenna,Somers,jsomers,8be41009acad7598f30d2c868d8ce891d8111e76,somersj6@msu.edu,0,0,1,0/0,0,0,147,,,,,,,,Jan 12 2023 6:51PM,true,Jan 12 2023 6:54PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Jeremy Austin,Jeremy,Austin,jaustin74,7ddf4a527a09856d8f7dfa0b517cc532c80337fb,austi120@msu.edu,0,0,2,0/0,0,0,2237,0,,,0,,,,Jan 9 2023 12:56AM,true,Jan 10 2023 12:28AM,,false,"'1. 0.1 hours
+2. 1, the format was a little confusing
+3. It was easy, one site for everything would be an improvement.
+4. I used no resources for this project'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Jerry Hoskins,Jerry,Hoskins,jhoskins2,5412fbc9d222f98d17dacb7650ccb3984ce42fb6,hoskin41@msu.edu,0,0,0,0/0,0,0,39,,,,,,,,Jan 11 2023 11:08PM,false,,,,,,,,,,,
+Joao Oliveira Batista,Joao,Oliveira Batista,joliveira-batista,f0bef8e2f6e19e9f3fcb5b947729bb2bfe2c85e2,batista6@msu.edu,0,0,0,0/0,0,0,1559,,,,,,,,Jan 9 2023 6:20PM,false,,,,,,,,,,,
+Joe Cook,Joe,Cook,jcook74,3e6c8c9d434c0fccd74f8fd70b175224fde08702,cookjo18@msu.edu,0,0,2,0/0,0,0,491,,,,,,,,Jan 11 2023 8:18PM,true,Jan 11 2023 8:28PM,,false,"'1. 0.2 Hours
+2. 1
+3. This was a great tutorial.
+4. D2L'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Joe Keller,Joe,Keller,jkeller08,49257ed517c5579164f2f30f6d17877b0f3277da,kelle218@msu.edu,0,0,2,0/0,0,0,545,,,,,,,,Jan 14 2023 9:02PM,true,Jan 14 2023 9:21PM,,false,"'1. It took roughly 0.5 hours to complete this project, including watching the tutorials on D2L.
+2. 2/10.
+3. This project felt appropriate to get acclimated to PyCharm and Codio. However, I could use more resources to figure out all the tricks of either. 
+4. No outside sources used in writing the program. Just used the CSE331 D2L to watch tutorials associated with Project00.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Joel Martinez,Joel,Martinez,jmartinez78,848f4d91dce1edddc841600ad4adb0bedc03a6d5,mart2564@msu.edu,0,0,2,0/0,0,0,1011,,,,,,,,Jan 11 2023 3:37AM,true,Jan 11 2023 4:14AM,,false,"'1.  About <1 hr
+2. 6-7 Im new to codio 
+3. simply
+4. nada'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",5
+Joey Lafeir,Joey,Lafeir,jlafeir,1a342d929d80f913c42dc552cf94df20b9a30f80,lafeirjo@msu.edu,0,0,2,0/0,0,0,1290,0,,,0,,,,Jan 9 2023 6:02PM,true,Jan 9 2023 11:34PM,,false,"'1. The project took around 45 minutes to complete
+
+2. This project was about a 3 in terms of difficulty, mainly just having to adjust to using PyCharm
+
+3. Overall, the project was fairly simple, not too much coding and just used as an introduction to using PyCharm and Codio
+
+4. No outside resources were used besides content that exists of Zybooks'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Joey Morrison,Joey,Morrison,jmorrison0,f705482b447a9d792e19b042dfae4bdadc8a1245,morri806@msu.edu,0,0,1,0/0,0,0,184,,,,,,,,Jan 13 2023 11:46PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Joseph Eisho,Joseph,Eisho,jeisho,7b817dce4ef8caebffe578554d27fc5c8711f67d,eishojos@msu.edu,0,0,2,0/0,0,0,606,,,,,,,,Jan 12 2023 10:33PM,true,Jan 12 2023 10:45PM,,false,"'1) About 30 minutes
+2) 0
+3) The videos and instructions were nice to follow and clear to understand. Nothing seemed challenging in the setup and everything seemed great to me.
+4) No resources but noticed my code was similar to the one in the first tutorial video.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Josh Brown,Josh,Brown,jbrown50,2a707f8c5d0a5dc65fd17048df8ef79f2461c654,brown940@msu.edu,0,0,0,0/0,0,0,96,,,,,,,,Jan 13 2023 4:12PM,false,,,,,,,,,,,
+Josh Costantino,Josh,Costantino,jcostantino,00bda2f4f4056688edd3e43d4ab6dfc7b0bed3c6,costan32@msu.edu,0,0,1,0/0,0,0,740,,,,,,,,Jan 10 2023 10:24PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Joshua Fosu-Agyemang,Joshua,Fosu-Agyemang,jfosu-agyemang,f9d2b12bd6f3d6453635e4237cf1616e395c87cd,fosuagye@msu.edu,0,0,0,0/0,0,0,20,,,,,,,,Jan 13 2023 1:19AM,false,,,,,,,,,,,
+Joshua Mae,Joshua,Mae,jmae,808fd7b51ff3cdca3709b032b14b976d930ab603,maejoshu@msu.edu,0,0,2,0/0,0,0,835,0,,,0,,,,Jan 9 2023 10:41PM,true,Jan 10 2023 4:40PM,,false,"'1. 10 minutes
+2. 10
+3. It was a good refresher on python and how to use codio as well as D2L.
+4. Professor Onsay's D2L videos on downloading and uploading files using D2L and codio.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Julian Akkashian,Julian,Akkashian,jakkashian,657b9aa5681baed11bcc8499c7479afbee91e16a,akkashi5@msu.edu,0,0,2,0/0,0,0,1129,,,,,,,,Jan 10 2023 12:06AM,true,Jan 13 2023 8:55AM,,false,"'1. Approximately 10 minutes
+2. 2 - I believe it is easy, It's just I'm not sure if I'm supposed to get an actual proper output which is confusing me
+3. I think this project could use a few more comments describing what the bits of syntax are. I can find it out online but it would be slightly more convenient. 
+4. I looked up what the -> means in python online. I don't remember the website, but it was a few days ago. This was the only resource I used.'",1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 18, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 18, in find_max
+    return max(data)
+ValueError: max() arg is an empty sequence
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",8
+Kaijia Zhan,Kaijia,Zhan,kzhan3,7c0daf32681ba3267d638b13b4242c643ffbc9a7,zhanjoan@msu.edu,0,0,2,0/0,0,0,797,0,,,0,,,,Jan 9 2023 7:37PM,true,Jan 9 2023 11:22PM,,false,"'This took me max an hour to complete. This was 0, it was very easy. Project helped me understand how to use Codio and I thought it was fine. I used the reference videos that were given. 
+
+https://www.youtube.com/watch?v=lXm7pZ3h2FQ
+
+https://www.youtube.com/watch?v=2pijVED-7QI'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Karoline Yashin,Karoline,Yashin,kyashin,a088b4cfd1be4fb6c6dcf25eb39ecc1b914ff396,yashinka@msu.edu,0,0,2,0/0,0,0,457,,,,,,,,Jan 9 2023 7:39PM,true,Jan 12 2023 3:00AM,,false,"'1. 0.2 hours
+2. 0
+3. The project was easy, not challenging, i think it very good for a practice.
+4. none'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Kayleigh Manchester,Kayleigh,Manchester,kmanchester,4622a69666f5c6a3184462124387c9780486b148,manche15@msu.edu,0,0,2,0/0,0,0,2146,,,,,,,,Jan 14 2023 1:06AM,true,Jan 14 2023 2:59AM,,false,"'0.25 hours, 0, easy fun Python review, used starter package provided by instructor'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Keerthi Ramesh,Keerthi,Ramesh,kramesh,a821bc734f380f3f2b071f4f3ac5c7d3e1bc8434,rameshke@msu.edu,0,0,2,0/0,0,0,293,,,,,,,,Jan 13 2023 1:14AM,true,Jan 13 2023 1:39AM,,false,"'0.5 hours
+0
+Pretty good for project 0. Nice way to get my feet wet in codio
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Kendall Korcek,Kendall,Korcek,kkorcek,d32e598b1958fa2e7cc4c44ff78fdfba1cf94d17,korcekke@msu.edu,0,0,2,0/0,0,0,358,0,,,0,,,,Jan 10 2023 5:26PM,true,Jan 10 2023 5:50PM,,false,"'1)Less than one hour
+2)0
+3)good
+4)Video from D2L'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Kevin Zhang,Kevin,Zhang,kzhang68,9d8de85e70e5ef0f5ba32b835035eaddc0ba9e52,zhangk54@msu.edu,0,0,2,0/0,0,0,402,0,,,0,,,,Jan 9 2023 9:44PM,true,Jan 9 2023 9:59PM,,false,'',1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 16, in find_max
+    result = data(0)    #initialize a counter of the proper type
+TypeError: 'list' object is not callable
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 16, in find_max
+    result = data(0)    #initialize a counter of the proper type
+TypeError: 'list' object is not callable
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",3
+Krithi Sachithanand,Krithi,Sachithanand,ksachithanand,4bf9b746fa11d5ac25e6301ba8f3706d590c741f,sachith1@msu.edu,0,0,0,0/0,0,0,4065,,,,,,,,Jan 15 2023 10:09PM,false,,,,,,,,,,,
+Kyle Raeside,Kyle,Raeside,kraeside,85824d8f1465bed8c321fb7bba8653fe661bcd0c,raesidek@msu.edu,0,0,0,0/0,0,0,37,,,,,,,,Jan 11 2023 5:46AM,false,,,,,,,,,,,
+Kyle Roleson,Kyle,Roleson,kroleson,ca5cf7eaa54ca4d55b3e9c632b7001244ae84e77,rolesonk@msu.edu,0,0,1,0/0,0,0,302,,,,,,,,Jan 10 2023 2:16AM,false,,,,,,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 20, in test_max
+    self.assertEqual(Solution.find_max(test2), 'k')
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 19, in find_max
+    if i > max:
+TypeError: '>' not supported between instances of 'str' and 'int'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 20, in test_max
+    self.assertEqual(Solution.find_max(test2), 'k')
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 19, in find_max
+    if i > max:
+TypeError: '>' not supported between instances of 'str' and 'int'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",2
+Kyle Taft,Kyle,Taft,ktaft,c7cd98d0e1e3ccd8941f971010d737f3313eecbc,taftkyle@msu.edu,0,0,0,0/0,0,0,420,,,,,,,,Jan 14 2023 11:18PM,false,,,,,,,,,,,
+Lance Stemple,Lance,Stemple,lstemple,0ddab7fb2ec670b0c34a5d6f20c37c6736bc1dfe,stemplel@msu.edu,0,0,2,0/0,0,0,1667,,,,,,,,Jan 9 2023 12:02AM,true,Jan 10 2023 11:11PM,,false,"'1. ~1 hour
+2. 4
+3. I liked being able to learn the logistics of how to use codio/pycharm
+4. I used the youtube videos provided to follow along with submitting'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Leeann Alsaeed,Leeann,Alsaeed,lalsaeed,895b1b65025e2da565120e193180e444616163de,alsaeedl@msu.edu,0,0,2,0/0,0,0,1243,,,,,,,,Jan 10 2023 10:30AM,true,Jan 11 2023 4:04AM,,false,"'1. It took less than an hour to complete this project.
+2. 1
+3. This project was easy. the only challenge was to deal with the none situation.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Leo Hoerdemann,Leo,Hoerdemann,lhoerdemann,23fa038e33bd6e3a999906c98a1ad9dc98f4caaa,hoerdema@msu.edu,0,0,0,0/0,0,0,50,,,,,,,,Jan 13 2023 10:43PM,false,,,,,,,,,,,
+Leonardo Specht,Leonardo,Specht,lspecht,a56306313e3e1769e0005710e16acd4190655a24,spechtle@msu.edu,0,0,1,0/0,0,0,240,,,,,,,,Jan 12 2023 6:39PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK'",1
+Lilly Yanke,Lilly,Yanke,lyanke,d1442014e4ceb580abad6b411415f3ae66034122,yankelil@msu.edu,0,0,2,0/0,0,0,544,,,,,,,,Jan 9 2023 9:47PM,true,Jan 12 2023 12:45AM,,false,"'1. Not even half an hour
+2. 0
+3. Very helpful to learn how to use codio
+'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Luc Walz,Luc,Walz,lwalz,b75e5913b39a84f96ce9293dc8d58edafe5abde1,walzluc@msu.edu,0,0,2,0/0,0,0,864,0,,,0,,,,Jan 10 2023 7:08AM,true,Jan 10 2023 7:40AM,,false,"'1. This project took me ~20 minutes to complete
+2. 0/10 difficulty
+3. Simple project to learn about Codio
+4. N/A'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Luke Kozlowski,Luke,Kozlowski,lkozlowski,1cf2bc6d0337a25736c333ac8ce883bd2c91de3b,kozlow86@msu.edu,0,0,0,0/0,0,0,57,,,,,,,,Jan 11 2023 2:34AM,false,,,,,,,,,,,
+Maanasi Ganapathy,Maanasi,Ganapathy,mganapathy,a18c463126e61de52bb212bacad5393ceac9fca4,ganapa11@msu.edu,0,0,1,0/0,0,0,1375,,,,,,,,Jan 9 2023 1:39AM,false,,,,,,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: 0 != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: 0 != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (failures=1)'",12
+Mackenzi Steinmetz,Mackenzi,Steinmetz,msteinmetz,6631fcf4a294f943f8915e9e81e6048791563274,steinm58@msu.edu,0,0,0,0/0,0,0,72,,,,,,,,Jan 10 2023 12:18AM,false,,,,,,,,,,,
+Manan Vyas,Manan,Vyas,mvyas,f9e615fad30f2aba1c5270a01fccda9b2c717240,vyasmana@msu.edu,0,0,1,0/0,0,0,331,,,,,,,,Jan 10 2023 1:50PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Manh Cang Nguyen Dac,Manh Cang,Nguyen Dac,mnguyen-dac,c663d7e76e0f9ce2143f60746c0d45ae780e7ce4,nguye865@msu.edu,0,0,0,0/0,0,0,90,,,,,,,,Jan 9 2023 8:26PM,false,,,,,,,,,,,
+Manh Tran,Manh,Tran,mtran57,66f71f4b4abfa5057ceaa04146bc18d68a74fe48,tranman1@msu.edu,0,0,2,0/0,0,0,846,0,,,0,,,,Jan 8 2023 10:08PM,true,Jan 8 2023 10:20PM,,false,"'1. it took me 2 hours to complete this project.
+2. 5
+3. Not challenging but also not easy
+4. yes'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",6
+Mannan Dhillon,Mannan,Dhillon,mdhillon1,fa9c4ecdc299f8e1871f92296f7696a51291527c,dhillo17@msu.edu,0,0,0,0/0,0,0,106,,,,,,,,Jan 13 2023 10:35PM,false,,,,,,,,,,,
+Marcus Cohen,Marcus,Cohen,mcohen23,8009b592c8b6a59bd40678f34acfbccc0caadc5b,cohenm16@msu.edu,0,0,0,0/0,0,0,520,,,,,,,,Jan 8 2023 10:22PM,false,,,,,,,,,,,
+Maria Scannell,Maria,Scannell,mscannell7,eacfa11050190bee244918b435490fc3ebea9371,scannel7@msu.edu,0,0,0,0/0,0,0,1104,,,,,,,,Jan 9 2023 2:04PM,false,,,,,,,,,,,
+Mark Tungul,Mark,Tungul,mtungul,e7b009d562d7a11c3bd738a3a46c349bc156ba5d,tungulma@msu.edu,0,0,0,0/0,0,0,212,,,,,,,,Jan 13 2023 4:32AM,false,,,,,,,,,,,
+Matthew Roberts,Matthew,Roberts,mroberts50,dd23afb110277d704265d870069f7a294e4356b5,robe1157@msu.edu,0,0,2,0/0,0,0,303,,,,,,,,Jan 8 2023 6:26PM,true,Jan 10 2023 10:21PM,,false,"'1. Took me about a half an hour to get everything uploaded and project finished
+2. 0
+3. I liked it all. 
+4. I used nothing other than the videos provided.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Maui Baba,Maui,Baba,mbaba,f5a3d96523455c43d2b0c1ee50ae1ee9d702860d,babamaui@msu.edu,0,0,1,0/0,0,0,1014,,,,,,,,Jan 13 2023 9:41PM,false,,,,,,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",5
+Melinda Fadool,Melinda,Fadool,mfadool,8f55e14f9651e0e6ab50a9a0178ac8fca9b5621b,fadoolme@msu.edu,0,0,2,0/0,0,0,870,,,,,,,,Jan 11 2023 12:25AM,false,,,false,"'1. From starting the download to finishing the upload the process took about 30 minutes, about half of which was watching the videos to the process.
+2. 1
+3. The most challenging part was the empty list case. The easiest part was the number test case. I think it's a good review and starting case for working with python again.
+4. The only website I used was https://pythonexamples.org/python-max-function to double check that I was using the default case in the max() function correctly'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Mia Granata,Mia,Granata,mgranata,13bf504bec2d1de6b9c570a0dc063d524607789c,granata2@msu.edu,0,0,2,0/0,0,0,624,,,,,,,,Jan 9 2023 4:19PM,true,Jan 14 2023 12:09AM,,false,'',1,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",3
+Michael Moss,Michael,Moss,mmoss4,dc7049f43803aa00be9e7fd14f6dd640cd2dccee,mossmic5@msu.edu,0,0,2,0/0,0,0,347,,,,,,,,Jan 15 2023 10:56PM,true,Jan 15 2023 11:06PM,,false,"'1. 1 hour
+2. 0
+3. n/a
+4. class lectures'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Michael Plante,Michael,Plante,mplante3,2a7d4e5d5eab5805a7fdb98ebc9cce10951b68c5,plantem1@msu.edu,0,0,2,0/0,0,0,1683,,,,,,,,Jan 11 2023 7:52PM,true,Jan 11 2023 8:56PM,,false,'',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Mohammed Alnuaimi,Mohammed,Alnuaimi,malnuaimi,2d8a1f3b08666a307353d5e581516a8d99f7bbcf,alnuaim9@msu.edu,0,0,1,0/0,0,0,423,,,,,,,,Jan 11 2023 10:48PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Mufeez Mulbagal,Mufeez,Mulbagal,mmulbagal,f6ae87e38341d01fe269c561b69b1071c9a4a4b7,mulbaga1@msu.edu,0,0,2,0/0,0,0,2125,,,,,,,,Jan 9 2023 4:26PM,true,Jan 11 2023 9:13PM,,false,"'half an hour. 
+easy.
+'",2,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Najiha Jaigirdar,Najiha,Jaigirdar,njaigirdar8,3c113cad3d6dfcca4f8c111b35a5079dbbdcd561,jaigird3@msu.edu,0,0,2,0/0,0,0,432,,,,,,,,Jan 14 2023 11:39PM,true,Jan 14 2023 11:49PM,,false,"'1)Less than hour but it did take my computer a second to get pycharm up and running
+2)0
+3)I think it could be helpful to have us practice debugging in project 0 in the future. 
+4)Only used the given tutorials for how to use pycharm and codio'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Nate Mikkola,Nate,Mikkola,nmikkola,f4db97c69343abd8f5c3793045981fc3db241db3,mikkola1@msu.edu,0,0,0,0/0,0,0,527,,,,,,,,Jan 9 2023 2:18PM,false,,,,,,,,,,,
+Nathan Staniszewski,Nathan,Staniszewski,nstaniszewski,013abe2d3117a460ce71fc4906697bcdeb92a1d5,stanis21@msu.edu,0,0,0,0/0,0,0,413,,,,,,,,Jan 8 2023 10:31PM,false,,,,,,,,,,,
+Nicholas Li,Nicholas,Li,nli60,4b76d0829d06f301ddd365895cd9bde62602c6f4,linicho1@msu.edu,0,0,0,0/0,0,0,1653,,,,,,,,Jan 10 2023 11:56PM,false,,,,,,,,,,,
+Nick Fedewa,Nick,Fedewa,nfedewa,7051d1bbd80390a7943221cb4951a5ba60ffdbb9,fedewan5@msu.edu,0,0,2,0/0,0,0,740,,,,,,,,Jan 10 2023 10:13PM,true,Jan 10 2023 10:56PM,,false,"'1) 0.5 hours
+2) 0
+3) Easy
+4) None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Nika Ghasemi Barmi,Nika,Ghasemi Barmi,nghasemi-barmi,2526852db243b7419843facfe8f8f4f34e6e7457,ghasemib@msu.edu,0,0,1,0/0,0,0,897,,,,,,,,Jan 14 2023 2:56AM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Nitin Polavarapu,Nitin,Polavarapu,npolavarapu,f66ff57b0662081d31c001717783695210cd7ed7,polavar7@msu.edu,0,0,1,0/0,0,0,798,,,,,,,,Jan 8 2023 11:58PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",7
+Noah Wolff,Noah,Wolff,nwolff5,577cd24a0b6fbdf57c4d3e8b0d65a28bcc28e6a2,wolffnoa@msu.edu,0,0,2,0/0,0,0,1233,,,,,,,,Jan 10 2023 5:08AM,true,Jan 11 2023 10:49PM,,false,"'1) It took about 15 minutes including watching the videos
+2) 1
+3) It was simple and straight forward
+4) I didn't use any resources'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Noor Muhammad,Noor,Muhammad,nmuhammad4,d24859d800ed78551cf2f6b5f6ee4c3081580c3d,muham101@msu.edu,0,0,1,0/0,0,0,251,0,,,0,,,,Jan 10 2023 1:13PM,true,Jan 10 2023 1:18PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Olivia Jordahl,Olivia,Jordahl,ojordahl,185c1b63f29fb722596c7fef07b62a2437f44551,jordahl1@msu.edu,0,0,0,0/0,0,0,38,,,,,,,,Jan 9 2023 5:08PM,false,,,,,,,,,,,
+Olivia Pal,Olivia,Pal,opal,2df7e4faea9cacf24785cf547e5a93ae30171adb,palolivi@msu.edu,0,0,2,0/0,0,0,3593,0,,,0,,,,Jan 10 2023 2:50AM,true,Jan 10 2023 5:41AM,,false,"'1. 0.16667 hours
+2. 1
+3. this one was easy
+4. none'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",10
+Owen Cochell,Owen,Cochell,ocochell,a8b29493d6a899d8f09c29e1ff287c36feef0b02,cochello@msu.edu,0,0,2,0/0,0,0,2576,,,,,,,,Jan 9 2023 11:17PM,true,Jan 12 2023 1:34AM,,false,"'1.) 0.1 hours
+2.) 0
+3.) It was easy
+4.) None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",8
+Palina Skakun,Palina,Skakun,pskakun,28173cb0dcb62abac47962bfbf43293ed62bee11,skakunpa@msu.edu,0,0,0,0/0,0,0,52,,,,,,,,Jan 13 2023 6:41AM,false,,,,,,,,,,,
+Paul Williams,Paul,Williams,pwilliams67,086761963450852976c44ab825236242fa9ce43f,will3730@msu.edu,0,0,0,0/0,0,0,19,,,,,,,,Jan 14 2023 1:32AM,false,,,,,,,,,,,
+Pavel Shevchenko,Pavel,Shevchenko,pshevchenko,f5e0225ce57a45f9897db7886e7f099bc36856d8,shevche5@msu.edu,0,0,2,0/0,0,0,768,,,,,,,,Jan 16 2023 2:11AM,true,Jan 16 2023 4:29AM,,false,"'1) Less than 1.
+2) 0
+3) It was  simple nothing challenging. 
+4) No sources.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Pedro De Oliveira Mitkiewicz,Pedro,De Oliveira Mitkiewicz,pde-oliveira-mitkiewicz,e2b11ea06a3b318a8cb83a0e79c31eebc263f2a0,deoliv27@msu.edu,0,0,2,0/0,0,0,545,0,,,0,,,,Jan 9 2023 10:12PM,true,Jan 10 2023 12:28AM,,false,"'1 hour, 0, the project was easy. I only used class resources.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Peyton Nagher,Peyton,Nagher,pnagher,3ffba3603682a803432197164e5877a84bd0ca27,nagherpe@msu.edu,0,0,2,0/0,0,0,423,0,,,0,,,,Jan 10 2023 3:55AM,true,Jan 10 2023 4:03AM,,false,"'15min, 0, already knew how to do it, no outside resources'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Prajeeth Naliganti,Prajeeth,Naliganti,pnaliganti,40513a1ea823bab07f61ca21b927d23fedb1901d,naligant@msu.edu,0,0,0,0/0,0,0,60,,,,,,,,Jan 14 2023 11:38PM,false,,,,,,,,,,,
+Pranesh Muthukumar,Pranesh,Muthukumar,pmuthukumar,9114077f9515b97660bd2bee082e20b035f82863,muthuku5@msu.edu,0,0,0,0/0,0,0,633,,,,,,,,Jan 17 2023 3:23AM,false,,,,,,,,,,,
+Pranta Nir Barua,Pranta Nir,Barua,pbarua,7533f16d6f07f5a0e55d386379554e6f8c250c4a,baruapra@msu.edu,0,0,0,0/0,0,0,139,,,,,,,,Jan 10 2023 10:43PM,false,,,,,,,,,,,
+Pritham Kura,Pritham,Kura,pkura,21c5e096f49d77087a5f066b0433feef2f3d100a,kuraprit@msu.edu,0,0,0,0/0,0,0,42,,,,,,,,Jan 13 2023 8:34PM,false,,,,,,,,,,,
+Quang Nguyen,Quang,Nguyen,qnguyen0,81a0082c22826fe157c3e73b6f8ad4ea3b3cc99f,nguye955@msu.edu,0,0,0,0/0,0,0,52,,,,,,,,Jan 14 2023 1:02AM,false,,,,,,,,,,,
+Quin Strausbaugh,Quin,Strausbaugh,qstrausbaugh,ca5bbde285ae7ad540f5203ff37e9d4c38ce994f,strausb7@msu.edu,0,0,2,0/0,0,0,1686,0,,,0,,,,Jan 9 2023 9:16PM,true,Jan 9 2023 11:10PM,,false,"'1. This project took me around 15 minutes to do. I didn't realize how much python I forgot until doing this, so I will definitely be doing the review on Zybooks.
+
+2. If I had to rate this Project, it would be a 0. 
+
+3. This was my favorite project I've done in this class so far. The most challenging thing was getting it uploaded into Codio because I've never used this platform before. 
+
+4. I didn't use any resources except for the ""uploading your .py file to Codio"" video to help me through this project.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",10
+Rami Souguir,Rami,Souguir,rsouguir,412575d1288414909027ddc6732b2d5b24976089,souguirr@msu.edu,0,0,0,0/0,0,0,60,,,,,,,,Jan 16 2023 3:43AM,false,,,,,,,,,,,
+Randy Hirmiz,Randy,Hirmiz,rhirmiz,899cc19b11aff8f3f60eae862df395da1042dd85,hirmizra@msu.edu,0,0,2,0/0,0,0,881,0,,,0,,,,Jan 9 2023 6:02PM,true,Jan 9 2023 11:33PM,,false,"'1. About 45 minutes.
+2. Difficulty = 1
+3. I thought it was a good project. It took so long because I wasn't use to this format, but it helped me understand how to write everything.
+4. I used the zybook to help remember basic python syntax.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",6
+Rayan Albehair,Rayan,Albehair,ralbehair,c4a70e5c0cd312249e922d85c53d96b53046e855,albehair@msu.edu,0,0,2,0/0,0,0,652,,,,,,,,Jan 8 2023 9:59PM,true,Jan 14 2023 9:50PM,,false,"'1. Less than an hour
+2. 3
+3. I am experiencing the platform 
+4. No resource'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",4
+Reyna McConville,Reyna,McConville,rmcconville,30288cc669a8b0e262ab54b1a98e9fd3b4d96a25,mcconv12@msu.edu,0,0,0,0/0,0,0,4125,,,,,,,,Jan 13 2023 10:08PM,false,,,,,,,,,,,
+Ricky Lu,Ricky,Lu,rlu5,98e1c57c5c80896547d2bdb11f40b0944a7a9f3d,luruiqi@msu.edu,0,0,1,0/0,0,0,183,,,,,,,,Jan 13 2023 11:36PM,true,Jan 13 2023 11:40PM,,,,,,,,false,"stdout='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='cp: cannot stat 'solution.py': No such file or directory
+E
+======================================================================
+ERROR: tests (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: tests
+Traceback (most recent call last):
+  File ""/usr/lib/python3.9/unittest/loader.py"", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 3, in <module>
+    from solution import Solution
+ModuleNotFoundError: No module named 'solution'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",1
+Rida Mahmood,Rida,Mahmood,rmahmood8,b4d642665b57918790dc1a0ea39603bf793c9c8c,mahmoo52@msu.edu,0,0,0,0/0,0,0,28,,,,,,,,Jan 9 2023 11:37PM,false,,,,,,,,,,,
+Riley Cook,Riley,Cook,rcook8,18280b2da20b275d8b272430ed8cb59ac3ba90f5,cookril2@msu.edu,0,0,2,0/0,0,0,250,,,,,,,,Jan 11 2023 5:07PM,true,Jan 11 2023 5:12PM,,false,'It took me 2 mins to finish. the project was 0. I liked the project. No resources used.',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Riley Vernon,Riley,Vernon,rvernon,89fda7a7caf0f57f1e6827b6a75724590cfbaa0f,vernonr2@msu.edu,0,0,2,0/0,0,0,1694,,,,,,,,Jan 9 2023 7:51PM,true,Jan 12 2023 4:26AM,,false,"'1. 5 minutes, took me longer to figure out how to upload than it did to write the code.
+2. 0
+3. Intro project, all of it was easy.
+4. No other resources.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Rohit Chavan,Rohit,Chavan,rchavan1,9c198afa417c81755f048c984a0b444603db9d2b,chavanro@msu.edu,0,0,0,0/0,0,0,249,,,,,,,,Jan 10 2023 5:48PM,false,,,,,,,,,,,
+Rose Spangler,Rose,Spangler,rspangler2,1f8c06318c2e6671f8b5698f461f0c63f379aff4,spangl39@msu.edu,0,0,1,0/0,0,0,267,,,,,,,,Jan 9 2023 8:41PM,false,,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Rossi Palomba,Rossi,Palomba,rpalomba,d3b40951c8edbb92f880ca49e09a1d7b30efb2ce,palombar@msu.edu,0,0,0,0/0,0,0,9,,,,,,,,Jan 11 2023 8:32PM,false,,,,,,,,,,,
+Ryan Lind,Ryan,Lind,rlind,c455f6987f9e7040b8389acd8a6f12a16a5e927c,lindryan@msu.edu,0,0,2,0/0,0,0,1494,0,,,0,,,,Jan 9 2023 8:53PM,true,Jan 9 2023 9:23PM,,false,"'1. This took roughly 0.25 hours to do.
+
+2. 1
+
+3. This is more of a demonstration than a project, but I could not find the tests.py file.
+
+4. None.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",6
+Safiya Fareed,Safiya,Fareed,sfareed,0162c66fe23286e8aa29b98701b9e863a3178a1c,fareedsa@msu.edu,0,0,2,0/0,0,0,1920,,,,,,,,Jan 11 2023 12:26AM,true,Jan 12 2023 12:09AM,,false,"'1. less than 1 hour
+2. 0
+3. easy, straight-forward tutorial
+4. onsay youtube tutorial'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Sai Upparapalle,Sai,Upparapalle,supparapalle,529ad5414f119e374b6e6b08f675dea54e654db0,upparapa@msu.edu,0,0,0,0/0,0,0,452,,,,,,,,Jan 8 2023 5:31PM,false,,,,,,,,,,,
+Saleh Alnuaimi,Saleh,Alnuaimi,salnuaimi,fdd98af70eb5ef61994863a029c3b5f633c945ed,alnuaim5@msu.edu,0,0,2,0/0,0,0,655,,,,,,,,Jan 13 2023 4:11PM,true,Jan 13 2023 5:46PM,,false,'-',1,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",3
+Sam Bollman,Sam,Bollman,sbollman,0b1e4f394746a3f8a1a86bf6129008569685eac5,bollma13@msu.edu,0,0,0,0/0,0,0,70,,,,,,,,Jan 11 2023 8:24PM,false,,,,,,,,,,,
+Sam Kurtzman,Sam,Kurtzman,skurtzman,3057c9dee589a4f2a8c2bb529c18bb9070eba443,kurtzma4@msu.edu,0,0,0,0/0,0,0,2830,,,,,,,,Jan 14 2023 12:13AM,false,,,,,,,,,,,
+Samin Matin,Samin,Matin,smatin,2ce1565ded5b2cb3ebc72f850d31674a06907264,matinsam@msu.edu,0,0,0,0/0,0,0,394,,,,,,,,Jan 10 2023 10:49PM,false,,,,,,,,,,,
+Sanaye Lewis,Sanaye,Lewis,slewis80,18abd6aabe63b30126964c4d979b4a2e8a6362c2,lewiss38@msu.edu,0,0,2,0/0,0,0,763,,,,,,,,Jan 9 2023 5:23PM,false,,,false,'n',1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13, in find_max
+    max = data[0]
+IndexError: list index out of range
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 26, in test_max
+    self.assertIsNone(Solution.find_max(test4))
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13, in find_max
+    max = data[0]
+IndexError: list index out of range
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)'",2
+Sania Sinha,Sania,Sinha,ssinha87,ad901345fdcf787f25ca2a9e0b4b353f385966fd,sinhasa3@msu.edu,0,0,0,0/0,0,0,51,,,,,,,,Jan 12 2023 1:48AM,false,,,,,,,,,,,
+Sanjana Kona,Sanjana,Kona,skona3,1e1d51485ff6ff0b82ad2f81344051cca693230c,konasanj@msu.edu,0,0,2,0/0,0,0,265,,,,,,,,Jan 16 2023 3:36AM,true,Jan 16 2023 3:44AM,,false,'-',1,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",2
+Sanya Nigam,Sanya,Nigam,snigam6,4b189e8356f2dca3a08052724765514767e3ddbc,nigamsa1@msu.edu,0,0,2,0/0,0,0,653,,,,,,,,Jan 11 2023 12:31AM,true,Jan 11 2023 2:25AM,,false,"'1 hour
+2
+easy project!
+videos on d2l'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Sardar Murtaza,Sardar,Murtaza,smurtaza,404d04616b62b3b6e163686d08e40fc41759e17e,murtaza1@msu.edu,0,0,0,0/0,0,0,120,,,,,,,,Jan 13 2023 10:37PM,false,,,,,,,,,,,
+Sasha Tarasova,Sasha,Tarasova,starasova,211f9b6a88411da525cbec2dd2dbd66ad5c80d45,tarasov4@msu.edu,0,0,1,0/0,0,0,443,,,,,,,,Jan 13 2023 10:40PM,true,Jan 13 2023 11:17PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Sean Burch,Sean,Burch,sburch,76265ecd20ffa54199eb25bc741d1f8a682aa05b,burchmi2@msu.edu,0,0,1,0/0,0,0,1226,,,,,,,,Jan 13 2023 12:20PM,true,Jan 13 2023 1:01PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Shaili Annadurai,Shaili,Annadurai,sannadurai,ba859970291b88b3b4485218d9549a6d3a0a0466,annadur1@msu.edu,0,0,0,0/0,0,0,76,,,,,,,,Jan 9 2023 9:32PM,false,,,,,,,,,,,
+Shane Jose,Shane,Jose,sjose35,eea2cbe9710ad654ad2d2d34f959c5d4600330f7,joseshan@msu.edu,0,0,0,0/0,0,0,507,,,,,,,,Jan 10 2023 7:15PM,false,,,,,,,,,,,
+Shashank Jayaram,Shashank,Jayaram,sjayaram,b81bf06283f2938260cfa83f50ba2147a5de1b32,jayara17@msu.edu,0,0,0,0/0,0,0,35,,,,,,,,Jan 14 2023 3:36AM,false,,,,,,,,,,,
+Shuja Husain,Shuja,Husain,shusain12,2c444afad4a54074bda2d717cf1c74f3bf86decf,husainsh@msu.edu,0,0,0,0/0,0,0,83,,,,,,,,Jan 8 2023 11:17PM,false,,,,,,,,,,,
+Sid Pawa,Sid,Pawa,spawa,0fd2df78f9388084906b5cd70d57bca9977e4328,pawasidh@msu.edu,0,0,0,0/0,0,0,139,,,,,,,,Jan 13 2023 9:38PM,false,,,,,,,,,,,
+Soham Sonar,Soham,Sonar,ssonar,1ecc4912f2d344cc3b0002469e70ee61a8637e60,sonarsoh@msu.edu,0,0,1,0/0,0,0,149,,,,,,,,Jan 17 2023 12:45AM,false,,,,,,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",1
+Sonia Thalatoti,Sonia,Thalatoti,sthalatoti,a74baa266d8607df786c4f60bb365ffc42c5c55d,thalatot@msu.edu,0,0,2,0/0,0,0,1576,,,,,,,,Jan 10 2023 11:41PM,true,Jan 11 2023 1:17AM,,false,"'1. 15min
+2. 0
+3.it was easy.'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Spencer Russell,Spencer,Russell,srussell878,32378d40f317aea7ff8f31dbd3d56d16dbc4053d,russe561@msu.edu,0,0,0,0/0,0,0,952,,,,,,,,Jan 10 2023 11:00PM,false,,,,,,,,,,,
+Stefan Lemke,Stefan,Lemke,slemke,137a1b6a80022ddf372005dfa17a5c990ecefaac,lemkest1@msu.edu,0,0,0,0/0,0,0,228,,,,,,,,Jan 11 2023 10:43PM,false,,,,,,,,,,,
+Student A Test,Student A,Test,s-test-michigan-state-university1,907032390bc68611a3c8ad880d414fb519814f66,student+michigan-state-university1@codio.com,0,0,1,0/0,0,0,69,0,,,0,,,,Jan 8 2023 6:22PM,true,Jan 8 2023 6:30PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",2
+Student B Test,Student B,Test,s-test-michigan-state-university2,752088e455b5d165f56113de1becea5a18d5cfb6,student+michigan-state-university2@codio.com,0,0,1,0/0,0,0,73,0,,,0,,,,Jan 10 2023 6:32PM,true,Jan 10 2023 6:33PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Student C Test,Student C,Test,s-test-michigan-state-university3,248f4e5a6f540e6445d686bf39fe94348e914ea2,student+michigan-state-university3@codio.com,0,0,1,0/0,0,0,16,,,,,,,,Jan 10 2023 7:37PM,true,Jan 10 2023 7:38PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Suryansh Singh,Suryansh,Singh,ssingh117,e92af69bf0dc68c097446f8c3c0d35ddd8c17e5c,singhs70@msu.edu,0,0,0,0/0,0,0,19,,,,,,,,Jan 11 2023 1:45AM,false,,,,,,,,,,,
+Swetha Jagannathan,Swetha,Jagannathan,sjagannathan0,14edcacc7f005e6bd5e7dc68e398638aac83863a,jaganna8@msu.edu,0,0,0,0/0,0,0,120,,,,,,,,Jan 11 2023 5:41PM,false,,,,,,,,,,,
+Sydney Gruczelak,Sydney,Gruczelak,sgruczelak,2ce57634cea7e16c23314e3ec5c62dd1cda5d75b,gruczela@msu.edu,0,0,0,0/0,0,0,85,,,,,,,,Jan 11 2023 7:31PM,false,,,,,,,,,,,
+Terrance Zackery,Terrance,Zackery,tzackery,412d83e661555f498e03c4d26cbc3c078639b4de,zackery5@msu.edu,0,0,0,0/0,0,0,2700,,,,,,,,Jan 12 2023 12:45AM,false,,,,,,,,,,,
+Tess Murphy,Tess,Murphy,tmurphy7,da3c3d74beeb788f9ccc531e3021b40c7b67c568,murph782@msu.edu,0,0,0,0/0,0,0,82,,,,,,,,Jan 15 2023 4:19AM,false,,,,,,,,,,,
+Toby Wright,Toby,Wright,twright3,0d74e497a12816ab6689ce75505a7c361d7f48bb,wrigh851@msu.edu,0,0,2,0/0,0,0,8639,,,,,,,,Jan 11 2023 2:00PM,true,Jan 16 2023 2:13AM,,false,"'1. not long
+2. 0
+3. I could not figure out how to install the python interpreter, and this class's piazza link seems to be broken, so I could not locally test
+4. D2L for downloading pycharm and the starter code'",1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 14, in find_max
+    if data.size == 0:
+AttributeError: 'list' object has no attribute 'size'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 14, in find_max
+    if data.size == 0:
+AttributeError: 'list' object has no attribute 'size'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)'",1
+Travis Nitkiewicz,Travis,Nitkiewicz,tnitkiewicz,fa9b0f89bb3247da1690bf8a7527c2d3444a363f,nitkiew1@msu.edu,0,0,0,0/0,0,0,100,,,,,,,,Jan 12 2023 3:54PM,false,,,,,,,,,,,
+Tre Benson,Tre,Benson,tbenson8,73cfcbdc6550843deaeeaf9b331329e6e88d16e8,bensont5@msu.edu,0,0,0,0/0,0,0,0,,,,,,,,Jan 14 2023 1:55AM,false,,,,,,,,,,,
+Tuan Nguyen,Tuan,Nguyen,tnguyen151,1505e4938f0a895070e959ddf0bd4b1c858d8d71,nguye859@msu.edu,0,0,2,0/0,0,0,396,,,,,,,,Jan 11 2023 10:51AM,true,Jan 13 2023 3:50AM,,false,'',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Tyler Harvey,Tyler,Harvey,tharvey86,04ac910137d318853fd165ed0f27dfaeee685d9a,harveyt6@msu.edu,0,0,2,0/0,0,0,346,,,,,,,,Jan 9 2023 2:44PM,true,Jan 11 2023 4:46PM,,false,"'1. <1 hour
+2. 0
+3. Pretty simply review
+4. None'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Tyler McDonald,Tyler,McDonald,tmcdonald14,7c141388c2f355527bac98d0d82ebd813ba1db01,mcdon536@msu.edu,0,0,2,0/0,0,0,140,,,,,,,,Jan 12 2023 7:15PM,true,Jan 15 2023 8:40PM,,false,'Test project',1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Uma Kulkarni,Uma,Kulkarni,ukulkarni2,a12ead9628cbf70c6ee3bb0139fe03054b6d42f0,umak@msu.edu,0,0,0,0/0,0,0,154,,,,,,,,Jan 11 2023 1:47AM,false,,,,,,,,,,,
+Valdine Pegy Tchinda Pegou,Valdine Pegy,Tchinda Pegou,vtchinda-pegou,27113f331d0eee050a98eb2236a5272ce94a2ead,tchindap@msu.edu,0,0,1,0/0,0,0,1590,,,,,,,,Jan 11 2023 4:07PM,true,Jan 11 2023 5:12PM,,,,,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",9
+Vashcar Nath,Vashcar,Nath,vnath,960a93c241145078baab517c8af9112bc630e4b1,nathvash@msu.edu,0,0,2,0/0,0,0,697,,,,,,,,Jan 11 2023 9:09PM,true,Jan 15 2023 7:37PM,,false,"'1. 0.083 hours
+2. 0
+3. I liked the introductory project as it gave a lot of details on how to use Codio and PyCharm.
+4. https://www.youtube.com/watch?v=lXm7pZ3h2FQ&ab_channel=SebnemOnsay
+
+https://www.youtube.com/watch?v=2pijVED-7QI&ab_channel=SebnemOnsay'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",3
+Vishal Chava,Vishal,Chava,vchava,8237312ea2a8f91bd825cf7a4321fff4fdc224e7,chavavis@msu.edu,0,0,2,0/0,0,0,645,,,,,,,,Jan 14 2023 1:29AM,true,Jan 14 2023 1:49AM,,false,"'1.) 30 minutes
+2.) 1
+3.) It seemed straightforward no work needed to be done
+4.) none'",1,,,,false,"stdout='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='F
+======================================================================
+FAIL: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+AssertionError: None != 29
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)'",1
+Vu Phi,Vu,Phi,vphi,d844133dc0b564cae32679cf053c8d6aa2f3315e,phivu@msu.edu,0,0,0,0/0,0,0,120,,,,,,,,Jan 9 2023 9:33PM,false,,,,,,,,,,,
+Walker Mcdonald,Walker,Mcdonald,wmcdonald,cbf9245e36002ed476852a695083f463d1041aff,mcdon546@msu.edu,0,0,2,0/0,0,0,435,,,,,,,,Jan 13 2023 8:50PM,true,Jan 13 2023 9:05PM,,false,"'1. 30 min
+2. 2/10
+3. No comment
+4. Tutorial videos provided on D2L'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",1
+Will Morant,Will,Morant,wmorant,c7cff21acf005e1375c7e8ed5a98ae599621db09,morantwi@msu.edu,0,0,2,0/0,0,0,1946,,,,,,,,Jan 13 2023 10:16PM,true,Jan 13 2023 10:55PM,,false,"'about .2 hours, 0, liked it, used only pycharm and codio'",1,,,,false,"stdout='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_max passes +0 points 
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK'",5
+William Chasteen,William,Chasteen,wchasteen2,90a3bf47823890e0f26184edd0238ea08d960140,chastee5@msu.edu,0,0,2,0/0,0,0,1106,,,,,,,,Jan 10 2023 5:07PM,true,Jan 10 2023 8:06PM,,false,"'5 minutes
+0 diff
+solid teaching
+no resources just went with what I knew'",1,,,,false,"stdout='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13, in find_max
+    max = List[0]
+  File ""/usr/lib/python3.9/typing.py"", line 277, in inner
+    return func(*args, **kwds)
+  File ""/usr/lib/python3.9/typing.py"", line 836, in __getitem__
+    params = tuple(_type_check(p, msg) for p in params)
+  File ""/usr/lib/python3.9/typing.py"", line 836, in <genexpr>
+    params = tuple(_type_check(p, msg) for p in params)
+  File ""/usr/lib/python3.9/typing.py"", line 166, in _type_check
+    raise TypeError(f""{msg} Got {arg!r:.100}."")
+TypeError: Parameters to generic types must be types. Got 0.
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)
+test_max fails -0 points
+<h3><strong>Total Points: 0 out of 0 possible auto graded points</strong></h3>'
+stderr='E
+======================================================================
+ERROR: test_max (tests.Problem1TestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File ""/home/codio/workspace/.guides/secure/tests.py"", line 17, in test_max
+    self.assertEqual(Solution.find_max(test1), 29)
+  File ""/home/codio/workspace/.guides/secure/solution.py"", line 13, in find_max
+    max = List[0]
+  File ""/usr/lib/python3.9/typing.py"", line 277, in inner
+    return func(*args, **kwds)
+  File ""/usr/lib/python3.9/typing.py"", line 836, in __getitem__
+    params = tuple(_type_check(p, msg) for p in params)
+  File ""/usr/lib/python3.9/typing.py"", line 836, in <genexpr>
+    params = tuple(_type_check(p, msg) for p in params)
+  File ""/usr/lib/python3.9/typing.py"", line 166, in _type_check
+    raise TypeError(f""{msg} Got {arg!r:.100}."")
+TypeError: Parameters to generic types must be types. Got 0.
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)'",2
+Wyatt Donley,Wyatt,Donley,wdonley,69184bb7cacd297176d532af375824a74c22b91d,donleywy@msu.edu,0,0,0,0/0,0,0,447,,,,,,,,Jan 13 2023 10:17PM,false,,,,,,,,,,,
