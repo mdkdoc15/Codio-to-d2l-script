@@ -53,15 +53,11 @@ def clean_data(data):
         if i > 5:
             break
         new_data.append({})
-        for info in student:
-            if info == email_header:
-                # Turn email to Username column
-                # Username is net id, AKA, everything before at sign
-                new_data[-1][username_header] = data[i][info][: (data[i][info].find("@") -1) ]
-            elif info == final_grade_header:
-                # Update column name of the grades
-                new_data[-1][points_header] = data[i][info]
-            # Ignore all other data as it is not used
+        # Turn email to Username column
+        # Username is net id, AKA, everything before at sign
+        new_data[-1][username_header] = data[i][email_header][: (data[i][email_header].find("@") -1) ]
+        # Update column name of the grades
+        new_data[-1][points_header] = data[i][final_grade_header]
         # Add End of line info
         new_data[-1][end_of_line_header] = end_of_line_value
 
